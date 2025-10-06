@@ -1,0 +1,34 @@
+[
+  {
+    "username": "admin",
+    "password": "admin",
+    "role": "admin",
+    "firstName": "John",
+    "lastName": "Gitau",
+    "phone": "0700000000"
+  },
+  {
+    "username": "user",
+    "password": "user",
+    "role": "user",
+    "firstName": "Regular",
+    "lastName": "User",
+    "phone": "0711111111"
+  },
+  {
+    "username": "Thuita",
+    "password": "1234",
+    "role": "user",
+    "firstName": "Kevin",
+    "lastName": "Thuita",
+    "phone": "4697764718"
+  },
+  {
+    "username": "Gitau",
+    "password": "1234",
+    "role": "admin",
+    "firstName": "John",
+    "lastName": "Gitau",
+    "phone": "0794521982"
+  }
+]

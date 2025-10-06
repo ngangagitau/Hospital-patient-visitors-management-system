@@ -1,0 +1,546 @@
+[
+  {
+    "timestamp": "2025-10-01T15:28:33.434Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-01T15:28:48.966Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-01T15:29:29.997Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-01T15:31:22.165Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-01T15:31:23.999Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-01T15:33:37.091Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-01T15:37:27.694Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-01T15:37:39.381Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-01T15:38:18.511Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-01T15:39:23.731Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-01T15:41:02.877Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T15:41:20.137Z",
+    "action": "User Login",
+    "user": "user",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T15:43:46.024Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T15:45:04.142Z",
+    "action": "Add User",
+    "user": "admin",
+    "details": {
+      "username": "Gitau",
+      "role": "admin"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T15:45:32.235Z",
+    "action": "User Login",
+    "user": "user",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T15:45:53.681Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T15:52:13.351Z",
+    "action": "Add User",
+    "user": "admin",
+    "details": {
+      "username": "security",
+      "role": "admin"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T15:54:11.491Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T15:58:46.926Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T16:03:09.237Z",
+    "action": "Add User",
+    "user": "admin",
+    "details": {
+      "username": "user1",
+      "role": "user"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T16:03:30.164Z",
+    "action": "Edit User",
+    "user": "admin",
+    "details": {
+      "username": "security",
+      "role": "user"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T16:08:42.149Z",
+    "action": "Delete User",
+    "user": "admin",
+    "details": {
+      "username": "Gitau"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T16:08:46.008Z",
+    "action": "Delete User",
+    "user": "admin",
+    "details": {
+      "username": "user1"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T16:09:54.605Z",
+    "action": "Add User",
+    "user": "admin",
+    "details": {
+      "username": "gitua",
+      "role": "user"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T16:10:17.368Z",
+    "action": "Add User",
+    "user": "admin",
+    "details": {
+      "username": "gitau",
+      "role": "admin"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T16:20:17.671Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T16:28:17.037Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T16:40:46.235Z",
+    "action": "Delete User",
+    "user": "admin",
+    "details": {
+      "username": "gitau"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T16:40:49.463Z",
+    "action": "Delete User",
+    "user": "admin",
+    "details": {
+      "username": "gitua"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T16:40:51.673Z",
+    "action": "Delete User",
+    "user": "admin",
+    "details": {
+      "username": "security"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T16:41:25.334Z",
+    "action": "Add User",
+    "user": "admin",
+    "details": {
+      "username": "Thuita",
+      "role": "user",
+      "firstName": "Kevin",
+      "lastName": "Thuita",
+      "phone": "4697764718"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T16:41:48.044Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T16:45:30.146Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T16:55:24.923Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T17:12:41.249Z",
+    "action": "Add User",
+    "user": "admin",
+    "details": {
+      "username": "Gitau",
+      "role": "admin",
+      "firstName": "John",
+      "lastName": "Gitau",
+      "phone": "0794521982"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T17:32:36.381Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T17:34:09.192Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T17:34:37.615Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T17:37:24.805Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T17:47:53.629Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T17:48:48.955Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T17:53:08.703Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T17:56:10.788Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T18:02:42.905Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T18:04:27.749Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T18:07:21.198Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T18:09:17.934Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T18:11:41.174Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T18:12:13.211Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T18:15:18.852Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T18:19:05.676Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T18:31:36.980Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T18:43:06.783Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T18:46:37.638Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-01T19:29:32.779Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-02T05:59:08.115Z",
+    "action": "Create Patient",
+    "user": "admin",
+    "details": {
+      "patientId": "P005",
+      "name": "Jack Mwangi"
+    }
+  },
+  {
+    "timestamp": "2025-10-02T07:08:56.874Z",
+    "action": "Create Patient",
+    "user": "admin",
+    "details": {
+      "patientId": "P006",
+      "name": "Lucy Njeri"
+    }
+  },
+  {
+    "timestamp": "2025-10-02T07:10:29.242Z",
+    "action": "Visitor Check-In",
+    "user": "John Gitau",
+    "details": {
+      "visitorId": "V970984",
+      "patientId": "P006",
+      "patientName": "Lucy Njeri"
+    }
+  },
+  {
+    "timestamp": "2025-10-02T07:11:13.233Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-02T07:12:53.761Z",
+    "action": "Visitor Check-In",
+    "user": "Paul",
+    "details": {
+      "visitorId": "V137055",
+      "patientId": "P006",
+      "patientName": "Lucy Njeri"
+    }
+  },
+  {
+    "timestamp": "2025-10-02T07:14:03.314Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-02T13:21:44.363Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-02T13:21:49.390Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-02T13:21:51.552Z",
+    "action": "Failed Login",
+    "user": "admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-02T13:22:13.635Z",
+    "action": "Failed Login",
+    "user": "user",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-02T13:23:37.113Z",
+    "action": "User Login",
+    "user": "user",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-02T13:23:52.054Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-02T13:27:12.976Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-03T06:00:06.713Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-03T06:03:23.921Z",
+    "action": "Create Patient",
+    "user": "admin",
+    "details": {
+      "patientId": "P007",
+      "name": "Consolata Hospital Mathari"
+    }
+  },
+  {
+    "timestamp": "2025-10-03T06:09:29.158Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-03T06:13:47.175Z",
+    "action": "Failed Login",
+    "user": "Admin",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-03T06:14:01.790Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-03T06:17:24.532Z",
+    "action": "Create Patient",
+    "user": "admin",
+    "details": {
+      "patientId": "P008",
+      "name": "Elijah Mwangi M"
+    }
+  },
+  {
+    "timestamp": "2025-10-03T06:21:11.427Z",
+    "action": "Visitor Check-In",
+    "user": "Claire Abdi",
+    "details": {
+      "visitorId": "V444025",
+      "patientId": "P008",
+      "patientName": "Elijah Mwangi M"
+    }
+  },
+  {
+    "timestamp": "2025-10-03T06:23:06.858Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-06T06:50:15.044Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-06T06:51:45.751Z",
+    "action": "Failed Login",
+    "user": "Thiuta",
+    "details": "Invalid credentials."
+  },
+  {
+    "timestamp": "2025-10-06T06:51:54.580Z",
+    "action": "User Login",
+    "user": "Thuita",
+    "details": "User logged in successfully."
+  },
+  {
+    "timestamp": "2025-10-06T07:06:07.262Z",
+    "action": "User Login",
+    "user": "admin",
+    "details": "User logged in successfully."
+  }
+]
